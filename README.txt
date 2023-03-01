@@ -10,5 +10,7 @@ I have two Mad Catz controllers but I don't think it's possible to connect them 
 I have used this with other wired and wireless controllers for multiplayer split-screen play with no problems.
 
 Prerequisites:
-Microsoft .NET runtime 6.0
-ViGEm driver
+Microsoft .NET runtime 6.0 
+https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+ViGEm driver 
+https://github.com/ViGEm/ViGEmBus/releases
